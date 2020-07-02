@@ -1,10 +1,8 @@
 # Test-Interface
-/*
 In this i am created simple Interface program of java which would be helpful for learners.
 I hope you all learn it well...
-*/
 
-//Interface Programme
+
 package testingjava;
 
 interface Mouse{
