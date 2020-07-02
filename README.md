@@ -1,7 +1,8 @@
 # Test-Interface
-In this i am created simple Interface program of java which would be helpful for learners.
+In this I have created simple Interface program of java which would be helpful for learners.
 I hope you all learn it well...
 
+Java Interfaces  are generally collection of functions/methods declarations and its protype. 
 
 	package testingjava;
 	public class Interfacetest {
