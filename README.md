@@ -4,6 +4,15 @@ I hope you all learn it well...
 
 
 package testingjava;
+public class Interfacetest {
+
+	public static void main(String[] args) {
+		//TODO Auto-generated method stub
+		TIFC sd=new TIFC();
+		sd.leftbttn();
+		sd.rightbttn();
+	}
+}
 
 interface Mouse{
 	void leftbttn();
@@ -19,12 +28,3 @@ interface Mouse{
 	}
 }
 
-public class Interfacetest {
-
-	public static void main(String[] args) {
-		//TODO Auto-generated method stub
-		TIFC sd=new TIFC();
-		sd.leftbttn();
-		sd.rightbttn();
-	}
-}
