@@ -15,11 +15,13 @@ public class Interfacetest {
 }
 
 interface Mouse{
+
 	void leftbttn();
 	void rightbttn();
 }
  class TIFC implements Mouse
 {
+
 	public void leftbttn() {
 		System.out.println("You have clicked Left Button");
 	}
