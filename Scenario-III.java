@@ -1,5 +1,5 @@
- Goal ->Inherit properties from unrelated sources
- Solution. Use Inheritance and Interface.
+ /*Goal ->Inherit properties from unrelated sources
+ Solution. Use Inheritance and Interface.*/
  
 package interfacetest;
 
